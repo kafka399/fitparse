@@ -1,0 +1,8 @@
+*.log
+*.csv
+*.png
+figure
+*.rda
+*.html
+article.md
+workout.md
